@@ -1,0 +1,17 @@
+body{
+	background-color: orange;
+}
+a:link, a:visited {
+	background-color: :f44336;
+	color: black;
+	padding: 10px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+a:hover, a:active {
+	background-color: white;
+
+}
+font-family: 'Spicy Rice', cursive;
